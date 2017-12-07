@@ -10,6 +10,9 @@
 
 // Your code :
 
+const getLast = num => num[num.length - 1]
+
+console.log('Bonjour Gbane')
 //* Begin of tests
 const assert = require('assert')
 

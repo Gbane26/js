@@ -8,7 +8,9 @@
  *
  * @next sentence
  */
-
+const a = ''
+const b = 1
+const repeat = (a, b) => {}
 //* Begin of tests
 const assert = require('assert')
 
